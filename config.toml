@@ -1,0 +1,9 @@
+baseURL = "http://quantonganh.github.io"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "code-editor"
+publishDir = "quantonganh.github.io"
+
+[params]
+    author = "Quan Tong Anh"
+    locale = "en-US"
