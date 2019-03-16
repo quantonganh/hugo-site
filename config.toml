@@ -1,4 +1,4 @@
-baseURL = "http://quantonganh.github.io"
+baseURL = "https://quantonganh.github.io"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "code-editor"
